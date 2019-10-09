@@ -12,3 +12,5 @@
 *.cache
 *.txt
 *.config
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
